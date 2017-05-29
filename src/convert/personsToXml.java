@@ -81,4 +81,5 @@ public static void main(String []agrs){
 	readXml(writeXml(listOb,"D:\\"));
 	
 }
+public static void test_change(){System.out.print("Alert");}
 }
